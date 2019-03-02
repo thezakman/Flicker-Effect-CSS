@@ -1,2 +1,2 @@
-#Flicker Text Effect done with CSS + Javascript.
+Flicker Text Effect done with CSS + Javascript.
 ----
